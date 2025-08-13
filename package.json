@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "mongoose": "^8.17.1"
+  },
+  "name": "express-mongodb-crud",
+  "version": "1.0.0",
+  "description": "Simple Node.js Express API that connects to a MongoDB database and retrieves user data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vrajput28/express-mongodb-crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vrajput28/express-mongodb-crud/issues"
+  },
+  "homepage": "https://github.com/vrajput28/express-mongodb-crud#readme"
+}
