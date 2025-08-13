@@ -54,7 +54,7 @@ GET /users
 - `200` → List of users
 - `404` → No users found
 
-### **Get a user by ID** (only if age > 21)**
+### **Get a user by ID** (only if age > 21)
 ```bash
 GET /users/:id
 ```
